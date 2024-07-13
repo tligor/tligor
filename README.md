@@ -34,7 +34,7 @@
 
 Na visão geral abaixo você encontrará minha experiência em projetos mais recente:
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/apO4l0g.png"/>](https://www.spacex.com/)
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/apO4l0g.png"/>](#)
 
 **Sorteador grunt** \
 [**Sorteador**]
