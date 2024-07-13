@@ -39,7 +39,7 @@ Na visão geral abaixo você encontrará minha experiência em projetos mais rec
 **Sorteador grunt** \
 [**Sorteador**]
 Linguagens & Tecnologias: `Less`, `Sass`, `Grunt`\
-Links em destaque: [Repositório](https://github.com/tligor/sorteador_grunt/tree/main), [Site](<https://www.sorteador-grunt-teal.vercel.app>)
+Links em destaque: [Repositório](https://github.com/tligor/sorteador_grunt/tree/main), [Site](<https://sorteador-grunt-teal.vercel.app>)
 <br/>
 <br/>
 
