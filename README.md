@@ -46,6 +46,9 @@
 ### Project experience
 
 In the overview below you will find my most recent project experience:
+<br/>
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/apO4l0g.png"/>](#)
 
 **Tech Talks** \
