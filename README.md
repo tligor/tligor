@@ -58,8 +58,17 @@ In the overview below you will find my most recent project experience:
 
 **Clone Disney Plus** \
 [**Disney+**]
-Languages ​​& Technologies:  `HTML`, `Javascript`, `Sass`, `Gulp`\
+Languages ​​& Technologies:  `HTML`, `JAVASCRIPT`, `SASS`, `GULP`\
 Featured links: [Repository](https://github.com/tligor/clone_disneyplus), [Website](<https://clone-disneyplus-delta-one.vercel.app/>)
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/apO4l0g.png"/>](#)
+
+**ePlay** \
+[**Venda de jogos - React**]
+Languages ​​& Technologies:  `HTML`, `JAVASCRIPT`, `CSS`, `REACT`\
+Featured links: [Repository](https://github.com/tligor/eplay), [Website](<https://eplay-one.vercel.app/>)
 <br/>
 <br/>
 
@@ -67,8 +76,54 @@ Featured links: [Repository](https://github.com/tligor/clone_disneyplus), [Websi
 
 **Tech Talks** \
 [**Evento - Contador regressivo**]
-Languages ​​& Technologies:  `HTML`, `Javascript`, `Sass`, `Parcel`\
+Languages ​​& Technologies:  `HTML`, `JAVASCRIPT`, `SASS`, `PARCEL`\
 Featured links: [Repository](https://github.com/tligor/Tec_talks), [Website](<https://tech-talks-woad.vercel.app/>)
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/apO4l0g.png"/>](#)
+
+**Portfólio em React** \
+[**Uso de React**]
+Languages ​​& Technologies:  `HTML`, `JS`, `CSS`, `REACT`\
+Featured links: [Repository](https://github.com/tligor/portfolio_react), [Website](<https://portfolio-react-tau-bice-45.vercel.app/>)
+<br/>
+<br/>
+
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/apO4l0g.png"/>](#)
+
+**Visualizador de perfil Github** \
+[**Uso de API**]
+Languages ​​& Technologies:  `HTML`, `JS`, `CSS`, `VUE`\
+Featured links: [Repository](https://github.com/tligor/github_visualizador), [Website](<https://github-visualizador.vercel.app/>)
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/apO4l0g.png"/>](#)
+
+**Games Shop** \
+[**Loja de Games**]
+Languages ​​& Technologies:  `HTML`, `CSS`\
+Featured links: [Repository](https://github.com/tligor/Game-Shop/tree/master), [Website](<https://game-shop-henna.vercel.app/>)
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/apO4l0g.png"/>](#)
+
+**Assinatura NewsLatter** \
+[**Aprendendo SASS**]
+Languages ​​& Technologies:  `HTML`, `CSS`, `JS`, `JQUERY`, `SASS`\
+Featured links: [Repository](https://github.com/tligor/aprendendo_SASS), [Website](<https://tligor.github.io/aprendendo_SASS/>)
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/apO4l0g.png"/>](#)
+
+**MareaTurbo Imports** \
+[**Loja de Compra de Veiculos**]
+Languages ​​& Technologies:  `HTML`, `CSS`, `JS`, `JQUERY`\
+Featured links: [Repository](https://github.com/tligor/mareaTurboImports), [Website](<https://tligor.github.io/mareaTurboImports/>)
 <br/>
 <br/>
 
@@ -76,7 +131,7 @@ Featured links: [Repository](https://github.com/tligor/Tec_talks), [Website](<ht
 
 **Sorteador grunt** \
 [**Sorteador**]
-Languages ​​& Technologies:  `HTML`, `Javascript`, `Less`, `Sass`, `Grunt`\
+Languages ​​& Technologies:  `HTML`, `JAVASCRIPT`, `LESS`, `SASS`, `GRUNT`\
 Featured links: [Repository](https://github.com/tligor/sorteador_grunt/tree/main), [Website](<https://sorteador-grunt-teal.vercel.app>)
 <br/>
 <br/>
@@ -85,8 +140,17 @@ Featured links: [Repository](https://github.com/tligor/sorteador_grunt/tree/main
 
 **Site Restaurante** \
 [**Restaurante**]
-Languages ​​& Technologies: `HTML`, `Javascript`, `CSS`, `Bootstrap`, `Google APIs`\
+Languages ​​& Technologies: `HTML`, `JAVASCRIPT`, `CSS`, `BOOTSTRAP`, `GOOGLE APIS`\
 Featured links: [Repository](https://github.com/tligor/siteRestaurante), [Website](<site-restaurante-gamma.vercel.app>)
+<br/>
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.imgur.com/apO4l0g.png"/>](#)
+
+**Repositório de Email Marketing** \
+[**Restaurante**]
+Languages ​​& Technologies: `HTML`, `CSS`\
+Featured links: [Repository](https://github.com/tligor/Email_marketing)
 <br/>
 <br/>
 
