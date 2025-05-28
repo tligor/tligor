@@ -1,19 +1,23 @@
+# 👋 Olá, eu sou Igor Santana!
 
-<h1 align="center"><b>Hi there, I'm Igor</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<br>
-<br>
+### 🌐 Desenvolvedor Fullstack Java
 
-	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px></picture> **About me**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devbyigorsantana/) 
 
-<br>
+---
 
-- A passionate Front-end developer
-- Currently learning Web Development at EBAC
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](#)
+## 📚 Sobre mim
 
-<br>
+Desenvolvedor Fullstack com experiência em tecnologias como **Vue.js**, **React**, **JavaScript** e **Typescrypt**, além de desenvolvimento em **Java**, utilizando **Springboot**. Tenho um sólido histórico no desenvolvimento front-end, criação de temas WordPress e projetos usando metodologias ágeis, como **Kanban**. Tenho interesse em expandir minhas habilidades em Desenvolvimento e estou constantemente aprimorando meus conhecimentos técnicos e de design.
+
+---
+
+## 🚀 Skills & Tecnologias
+
+Aqui estão algumas das tecnologias que utilizo no meu dia a dia, com foco nas stacks e ferramentas mais relevantes para o meu trabalho:
+
+### Front-End
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -56,11 +60,23 @@
   
   
 <br>
+
+## 📈 Em Desenvolvimento
+
+Atualmente, estou estudando Java e aprimorando meus conhecimentos em **Springboot** para melhorar o fluxo de trabalho e a implantação de projetos.
+
+---
+
+## 📬 Contato
+
+- **E-mail**: santanna.ig@hotmail.com
+- **LinkedIn**: [Igor Santana](https://www.linkedin.com/in/devbyigorsantana/)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-### Project experience
+## 🏆 Experiências
 
-In the overview below you will find my most recent project experience:
+Abaixo você encontra alguns projetos que tenho desenvolvido
 <br/>
 <br/>
 
